@@ -160,7 +160,7 @@ https://www.behance.net/gallery/229223609/Revit-2-BEDROOM-BUNGALOW
 
 ---
 
-# 📚 Software Used
+# Software Used
 
 - Autodesk Revit
 - AutoCAD
